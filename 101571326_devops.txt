@@ -1,3 +1,4 @@
 This course is taught by Pritesh Patel.
 The schedule for this course is Monday 6pm-8pm lecture, Wednesday 4pm-6pm lab.
+The course provides a thorough education about GitHub and Git Bash.
 
