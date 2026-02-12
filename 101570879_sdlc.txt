@@ -1,0 +1,2 @@
+The Software Development Life Cycle (SDLC) is a structured,, cost-effective framework used by development teams to
+ produce high-quality software in the shortest possible time.
