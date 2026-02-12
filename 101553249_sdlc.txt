@@ -1,1 +1,3 @@
 What is DevOps?
+DevOps is short term for Development and Operations(IT).
+DevOps merges software development and IT operations to increase an organizations ability to deliver applications and services at high quality.
