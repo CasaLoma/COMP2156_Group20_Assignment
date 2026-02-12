@@ -1,3 +1,6 @@
 COMP2156 is the DevOps Course that t147 is required to take in their second year, second semester.
 The DevOps course is about learning what is required of a DevOps Engineer.
 DevOps engineer is someone who connects software and operations, hence the name (Dev)elopment and IT(OP)erations.
+This course is to help students learn and develop interest in becoming as well as learning what is a DevOps Engineer.
+Resources such as GitHub is used throughout the entire course as students are introduced(for maybe the first time) to CI(continous integration).
+CI is mainly used by DevOps and is used when developers frequenctly merge code changes to a central repository.
