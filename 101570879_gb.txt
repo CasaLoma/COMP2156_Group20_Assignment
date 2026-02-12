@@ -2,4 +2,5 @@ George Brown Experience
 
 George Brown Polytechnic is a post-secondary institution situated around the GTA.
 I am in the online section and have classes from Monday to Wednesday. My favorite course is COMP2156: Intro to DevOps.
-The course has a lecture and a lab that are both online. 
+The course has a lecture and a lab that are both online. George Brown is named after a 19th century Scottish-born
+Canadian politician.
