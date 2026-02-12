@@ -1,3 +1,5 @@
 What is DevOps?
 DevOps is short term for Development and Operations(IT).
 DevOps merges software development and IT operations to increase an organizations ability to deliver applications and services at high quality.
+DevOps use something that is called a CI or known as continous integration.
+There are many different CI's. These CI's are used when constant and frequent changes to code are required.
