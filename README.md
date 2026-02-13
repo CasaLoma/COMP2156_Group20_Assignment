@@ -8,3 +8,5 @@ create public git repo, merge all branches, create pull request
 # Individual Requirements
 3 text files, 10 Commits, update readme.md file
     
+# Group Members
+Tristan, Sean, Ryan, Brandon
