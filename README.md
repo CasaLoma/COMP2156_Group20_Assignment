@@ -15,3 +15,5 @@ This repository contains the individual contributions for the DevOps Group Assig
 
 
 
+#### DevOPS for System Admin Group Assignment
+Group Members: Brandon, Ryan, Sean, Tristan
