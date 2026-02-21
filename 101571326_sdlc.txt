@@ -1,7 +1,4 @@
 DevOps has extensive benefits to the software development cycle.
-<<<<<<< HEAD
 It improves efficiency and streamlines the project. 
 Bottom Text
-=======
-It improves efficiency and streamlines the project.
->>>>>>> parent of acbc5fc (Fix formatting issue in 101571326_sdlc.txt)
+
