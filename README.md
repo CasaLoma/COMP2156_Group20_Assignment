@@ -23,7 +23,7 @@ This repository contains the individual contributions for the DevOps Group Assig
 2. DevOps Course Information (`*_devops.txt`)
 3. Software Development Life Cycle (`*_sdlc.txt`)
 
-
+---
 
 #### DevOPS for System Admin Group Assignment
 Group Members: Brandon, Ryan, Sean, Tristan
