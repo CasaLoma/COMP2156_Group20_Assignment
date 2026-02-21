@@ -6,3 +6,5 @@ This course has the following Evaluation System:
 1 Group Assignment 14%
 Lab Exercises (Best 8 of 10) 16%
 Lecture Quizzes (Best 8 of 10) 8%
+
+
