@@ -1,0 +1,8 @@
+COMP2156: Devops For Systems Administration
+
+This ckass teaches students about the practices, tools, and technologies that are used in DevOps.
+This class will consist of 10 quizzes, 10 labs, 1 group assignemnt, 1 individual assignment, and 2 exams
+The meeting times for this class are: Monday, 6pm to 8pm & Wednesday 4pm to 6pm
+
+.
+
