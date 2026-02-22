@@ -1,0 +1,5 @@
+The Software Development Life Cycle is used to create software
+It improves efficiency and quality by allowing developers and IT professionals to work together
+DevOps uses continuious integration to consistantly and frequently update projects to ensure quality and output new code regularly 
+
+.
